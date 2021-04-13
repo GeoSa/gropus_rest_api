@@ -57,4 +57,4 @@
 5. View and Update order detail
 
 
-Without login, no user can get access to the system.
+Without login, nobody can get access to the system.
